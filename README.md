@@ -42,10 +42,6 @@ Place the following file in the same folder as the app:
 
 - `insurance_reviews_topics.csv`
 
-The application also checks for this alternative path:
-
-- `/mnt/data/insurance_reviews_topics.csv`
-
 ---
 
 ## Expected columns in the CSV
@@ -59,10 +55,6 @@ The app works best if the dataset contains these columns:
 - `note`
 - `assureur`
 - `lda_topic_label`
-
-Optional but supported:
-
-- `type` (if present with values such as `train` / `test`, the app preferentially trains on the `train` subset)
 
 ---
 
