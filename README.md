@@ -64,7 +64,10 @@ project/
 ├── step2_topic_modeling.ipynb
 ├── step3_topic_analysis.ipynb
 ├── step4_embeddings.ipynb
-└── step5_models_and_interpretation.ipynb
+├── step5_models_and_interpretation.ipynb
+project/Traduction avis client/
+├── insurance_reviews_cleaned.csv
+└── insurance_reviews_topics.csv
 ```
 ---
 
