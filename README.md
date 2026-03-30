@@ -42,6 +42,27 @@ Place the following file in the same folder as the app:
 
 - `insurance_reviews_topics.csv`
 
+project/
+│
+├── streamlit_app.py
+├── insurance_reviews_topics.csv
+├── requirements.txt
+└── README.md
+---
+
+---
+
+## For the files 
+
+Before running the files from step 2, unzip the files - `insurance_reviews_cleaned.csv` and `insurance_reviews_topics.csv` and place them into this configuration : 
+
+project/
+│
+├── step1_cleaning_data.ipynb
+├── step2_topic_modeling.ipynb
+├── step3_topic_analysis.ipynb
+├── step4_embeddings.ipynb
+└── step5_models_and_interpretation.ipynb
 ---
 
 ## Expected columns in the CSV
